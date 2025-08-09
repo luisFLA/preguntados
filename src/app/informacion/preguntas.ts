@@ -28,8 +28,8 @@ const preguntasSimuladas: IPregunta[] = [
   {
     idPregunta: '4',
     descripcionPregunta: 'Los gatos pueden volar.',
-    opcionRespuesta1: false,
-    opcionRespuesta2: true,
+    opcionRespuesta1: true,
+    opcionRespuesta2: false,
     respuestaCorrecta: false,
     puntajePregunta: 1,
   },
